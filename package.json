@@ -14,9 +14,9 @@
   "dependencies": {
     "leaflet": "^1.9.4"
   },
-  "author": "Tharun Tirumala",
+  "author": "Jangam Shekar",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TharunTirumala/saferoute.git"
+    "url": "https://github.com/jangamshekar/Safe-route.git"
   }
 }
